@@ -64,3 +64,4 @@ print(red_drone)
 
 blue_drone = drone([4, 4], 5, BLUE)
 print(blue_drone)
+lama
